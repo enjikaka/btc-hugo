@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on ByggTeknikCentrum</title>
-    <link>https://byggteknikcentrum.se/pages/</link>
+    <link>https://enjikaka.github.io/btc-hugo/pages/</link>
     <description>Recent content in Pages on ByggTeknikCentrum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
     <lastBuildDate>Mon, 04 Mar 2019 21:09:58 +0000</lastBuildDate>
     
-	<atom:link href="https://byggteknikcentrum.se/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://enjikaka.github.io/btc-hugo/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Konstruktionsritningar</title>
-      <link>https://byggteknikcentrum.se/sida/konstruktionsritningar/</link>
+      <link>https://enjikaka.github.io/btc-hugo/sida/konstruktionsritningar/</link>
       <pubDate>Mon, 04 Mar 2019 21:09:58 +0000</pubDate>
       
-      <guid>https://byggteknikcentrum.se/sida/konstruktionsritningar/</guid>
+      <guid>https://enjikaka.github.io/btc-hugo/sida/konstruktionsritningar/</guid>
       <description>Konstruktionsritningar och beräkningar Vad är konstruktionsritningar? Konstruktionsritningar visar i detalj hur huset är uppbyggt. De främsta skälen till att ta fram professionella genomarbetade konstruktionsritningar är följande:
  Konstruktionsritningarna används vid det tekniska samrådet för att visa att byggnaden uppfyller gällande lagkrav. Konstruktionsritningarna används för att begära in offerter från byggfirmor. Med ett detaljerat underlag blir offerterna jämförbara. Konstruktionsritningarna visar rätt dimensioner och materialkvalitet på bärande delar. Med dagens priser på byggmaterial är det kostsamt att överdimensionera.</description>
     </item>
     
     <item>
       <title>Kontrollansvarig</title>
-      <link>https://byggteknikcentrum.se/sida/kontrollansvarig/</link>
+      <link>https://enjikaka.github.io/btc-hugo/sida/kontrollansvarig/</link>
       <pubDate>Mon, 04 Mar 2019 20:22:02 +0000</pubDate>
       
-      <guid>https://byggteknikcentrum.se/sida/kontrollansvarig/</guid>
+      <guid>https://enjikaka.github.io/btc-hugo/sida/kontrollansvarig/</guid>
       <description>Kontrollansvarig Certifierad kontrollansvarig enligt PBL, behörighet N En kontrollansvarig krävs för de flesta byggprojekt. Vissa mindre tillbyggnader och komplementbyggnader är undantagna om inte byggnadsnämnden beslutar annat. Kontrollera med byggnadsnämnden i din kommun vad som gäller i just ditt fall.
 Den kontrollansvariges uppgifter är enligt PBL(Plan- och bygglag 2010:900) följande:
  Biträda byggherren med att upprätta ett förslag till kontrollplan och, i fråga om rivningsåtgärder, biträda vid inventeringen av farligt avfall och annat avfall.</description>
@@ -34,10 +34,10 @@ Den kontrollansvariges uppgifter är enligt PBL(Plan- och bygglag 2010:900) föl
     
     <item>
       <title>Bygglovsritningar</title>
-      <link>https://byggteknikcentrum.se/sida/bygglovsritningar/</link>
+      <link>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://byggteknikcentrum.se/sida/bygglovsritningar/</guid>
+      <guid>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</guid>
       <description>Bygglovsritningar Vad är bygglovsritningar? När du ska söka bygglov behöver du bygglovsritningar. För de flesta byggnader krävs bygglov. Kontrollera med stadsbyggnadskontoret i din kommun vad som gäller för dig. Bygglovsritningar består i normala fallet av fasadritningar, planritningar, sektionsritning och situationsplan. Bygglovsritningarna visar byggnadens utformning, utseende och placering på tomten. Som underlag för situationsplanen används nybyggnadskarta/tomtkarta som beställs från kommunen. Ett annat namn för bygglovsritningar är arkitektritningar, även kallat A-ritningar. Bygglovsritningar ska vara fackmannamässigt utförda.</description>
     </item>
     
