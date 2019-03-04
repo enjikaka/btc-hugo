@@ -7,3 +7,7 @@ fields:
   name: title
   label: Title
   description: Titel of the page
+- type: text
+  name: description
+  label: Description
+  description: Short description of the page
