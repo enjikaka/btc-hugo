@@ -1,7 +1,6 @@
 +++
 date = "2019-03-04T21:09:58+00:00"
 description = ""
-draft = true
 menu = ""
 title = "Konstruktionsritningar"
 undefined = []
