@@ -17,7 +17,7 @@ fields:
     source:
       type: simple
     options:
-    - services
+    - main
     - other
   label: menu
   name: menu
