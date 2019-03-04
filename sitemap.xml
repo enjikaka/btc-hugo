@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://byggteknikcentrum.se/</loc>
-    <priority>0</priority>
+    <loc>https://byggteknikcentrum.se/sida/kontrollansvarig/</loc>
+    <lastmod>2019-03-04T22:06:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://byggteknikcentrum.se/</loc>
+    <lastmod>2019-03-04T22:06:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://byggteknikcentrum.se/sida/bygglovsritningar/</loc>
+    <lastmod>2019-03-04T22:06:34+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://byggteknikcentrum.se/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://byggteknikcentrum.se/pages/</loc>
+    <lastmod>2019-03-04T22:06:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
