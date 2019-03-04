@@ -20,6 +20,7 @@ fields:
     - other
   label: menu
   name: menu
+  description: Which sub menu this page should be under
 pages:
 - content/pages/konstruktionsritningar.md
 - content/pages/kontrollansvarig.md
