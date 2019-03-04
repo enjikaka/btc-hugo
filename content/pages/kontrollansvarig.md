@@ -1,9 +1,10 @@
 +++
 date = "2019-03-04T20:22:02+00:00"
 description = ""
+menu = "services"
 title = "Kontrollansvarig"
-+++
 
++++
 ## Kontrollansvarig
 
 ### Certifierad kontrollansvarig enligt PBL, behörighet N

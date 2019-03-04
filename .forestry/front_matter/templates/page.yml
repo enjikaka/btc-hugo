@@ -22,4 +22,5 @@ fields:
   label: menu
   name: menu
 pages:
+- content/pages/kontrollansvarig.md
 - content/pages/bygglovsritningar.md
