@@ -13,7 +13,7 @@ sections:
   path: content
   label: Övrigt
   create: all
-  match: "*"
+  match: _index.md
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
