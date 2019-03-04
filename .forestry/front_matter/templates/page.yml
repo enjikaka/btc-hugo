@@ -21,6 +21,10 @@ fields:
   label: menu
   name: menu
   description: Which sub menu this page should be under
+- type: tag_list
+  name: Keywords
+  label: Keywords
+  description: Keywords of this page
 pages:
 - content/pages/konstruktionsritningar.md
 - content/pages/kontrollansvarig.md
