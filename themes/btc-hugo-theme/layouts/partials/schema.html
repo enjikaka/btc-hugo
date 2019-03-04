@@ -2,13 +2,9 @@
 {
   "@context" : "http://schema.org",
   "@type" : "Organization",
-  "name" : "ByggTeknikCentrum",
-  "url" : "http://byggteknikcentrum.se",
-  "logo": "<?php echo curPageURL(); ?>img/hus_logo.jpg",
-  "sameAs" : [
-	  "http://byggteknikcentrum.se",
-	  "https://plus.google.com/117357715377146258771"
-  ],
+  "name" : "{{.Site.Title}}",
+  "url" : "{{.Site.BaseURL}}",
+  "logo": "{{ "img/hus_logo.jpg" | absURL }}",
   "contactPoint": [
     {
       "@type": "ContactPoint",
@@ -44,8 +40,8 @@
 {
   "@context" : "http://schema.org",
   "@type" : "LocalBusiness",
-  "name" : "ByggTeknikCentrum",
-  "image": "<?php echo curPageURL(); ?>img/hus_logo.jpg",
+  "name" : "{{.Site.Title}}",
+  "image": "{{ "img/hus_logo.jpg" | absURL }}",
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "Valnäs Edsgård",
