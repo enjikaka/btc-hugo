@@ -1,16 +1,13 @@
 <button id="toggle-nav">Meny</button>
 <div id="menu-content" class="menu-content hidden">
   <h3>Konsulttjänster</h3>
-  <a href="bygglovsritningar">Bygglovsritningar</a>
-  <a href="kontrollansvarig">Kontrollansvarig</a>
-  <a href="konstruktionsritningar">Konstruktionsritningar</a>
-  <a href="digitalisering">Digitalisering av ritningar</a>
-  <a href="energiberakningar">Energiberäkningar</a>
-  <a href="fukttekniska-utredningar">Fukttekniska utredningar</a>
+  {{ range .Site.Menus.services }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
   <h3>Övrigt</h3>
-  <a href="ritningspaket">Ritningspaket</a>
-  <a href="ritningsexempel">Ritningsexempel</a>
-  <a href="mallar">Mallar</a>
+  {{ range .Site.Menus.other }}
+    <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ end }}
   <br>
   <a href="/">Hem</a>
 </div>

@@ -1,8 +1,7 @@
----
-title: Bygglovsritningar
-slug: bygglovsritningar
++++
+title = "Bygglovsritningar"
++++
 
----
 # Bygglovsritningar
 
 ## Vad är bygglovsritningar?
