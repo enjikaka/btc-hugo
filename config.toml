@@ -1,8 +1,12 @@
 baseURL = "https://byggteknikcentrum.se"
 languageCode = "sv"
+languageName = "svenska"
+defaultContentLanguage = "sv"
 title = "ByggTeknikCentrum"
 theme = "btc-hugo-theme"
 keywords = "ritningar, hus, fritidshus, garage, byggritningar, bygglovsritningar, ByggTeknikCentrum, konstruktionsritningar, energiberäkning, kontrollansvarig, konstruktionsberäkningar"
+sectionPagesMenu = "main"
+enableGitInfo = true
 
 [permalinks]
-  posts = "/sida/:title/"
+  pages = "/sida/:title"

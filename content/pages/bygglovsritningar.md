@@ -1,5 +1,5 @@
 +++
-menu = "services"
+menu = "main"
 title = "Bygglovsritningar"
 
 +++

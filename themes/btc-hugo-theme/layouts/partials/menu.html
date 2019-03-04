@@ -1,12 +1,12 @@
 <button id="toggle-nav">Meny</button>
 <div id="menu-content" class="menu-content hidden">
   <h3>Konsulttjänster</h3>
-  {{ range .Site.Menus.services }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
+  {{ range .Site.Menus.main }}
+    <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
   {{ end }}
   <h3>Övrigt</h3>
   {{ range .Site.Menus.other }}
-    <a href="{{ .URL }}">{{ .Name }}</a>
+    <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
   {{ end }}
   <br>
   <a href="/">Hem</a>
