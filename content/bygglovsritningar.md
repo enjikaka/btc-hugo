@@ -1,14 +1,15 @@
 ---
-title: "Bygglovsritningar"
-slug: "bygglovsritningar"
----
+title: Bygglovsritningar
+slug: bygglovsritningar
 
+---
 # Bygglovsritningar
+
 ## Vad är bygglovsritningar?
 
 När du ska söka bygglov behöver du bygglovsritningar. För de flesta byggnader krävs bygglov. Kontrollera med stadsbyggnadskontoret i din kommun vad som gäller för dig. Bygglovsritningar består i normala fallet av fasadritningar, planritningar, sektionsritning och situationsplan. Bygglovsritningarna visar byggnadens utformning, utseende och placering på tomten. Som underlag för situationsplanen används nybyggnadskarta/tomtkarta som beställs från kommunen. Ett annat namn för bygglovsritningar är arkitektritningar, även kallat A-ritningar. Bygglovsritningar ska vara fackmannamässigt utförda. Följande exempel visar hur bygglovsritningar från oss kan se ut:
 
-## Vad har vi att erbjuda?</h3>
+## Vad har vi att erbjuda?
 
 Vi erbjuder bygglovsritningar till nybyggnation, ombyggnation och tillbyggnation av villor, fritidshus, garage, stall, maskinhallar, industribyggnader, offentliga lokaler mm. Vi arbetar på distans över hela Sverige. Vår målsättning är att erbjuda prisvärda bygglovsritningar och snabba leveranser. Vi kan ta fram bygglovsritningar från grunden eller endast renrita bygglovsritningar efter kundens skisser. Vi ritar både i 2D och 3D med modern programvara.
 
