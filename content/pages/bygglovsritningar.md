@@ -1,7 +1,8 @@
 +++
+menu = "services"
 title = "Bygglovsritningar"
-+++
 
++++
 # Bygglovsritningar
 
 ## Vad är bygglovsritningar?

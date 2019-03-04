@@ -21,3 +21,5 @@ fields:
     - other
   label: menu
   name: menu
+pages:
+- content/pages/bygglovsritningar.md
