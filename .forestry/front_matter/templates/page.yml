@@ -11,3 +11,5 @@ fields:
   name: description
   label: Description
   description: Short description of the page
+pages:
+- content/kontrollansvarig.md
