@@ -11,3 +11,13 @@ fields:
   name: description
   label: Description
   description: Short description of the page
+- type: tag_list
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - services
+    - other
+  label: menu
+  name: menu
