@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sidas on ByggTeknikCentrum</title>
+    <title>ByggTeknikCentrum</title>
     <link>https://enjikaka.github.io/btc-hugo/sida/</link>
-    <description>Recent content in Sidas on ByggTeknikCentrum</description>
+    <description>Recent content on ByggTeknikCentrum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sv</language>
-    <lastBuildDate>Mon, 04 Mar 2019 21:09:58 +0000</lastBuildDate>
     
 	<atom:link href="https://enjikaka.github.io/btc-hugo/sida/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Bygglovsritningar</title>
+      <link>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</guid>
+      <description>Bygglovsritningar Vad är bygglovsritningar? När du ska söka bygglov behöver du bygglovsritningar. För de flesta byggnader krävs bygglov. Kontrollera med stadsbyggnadskontoret i din kommun vad som gäller för dig. Bygglovsritningar består i normala fallet av fasadritningar, planritningar, sektionsritning och situationsplan. Bygglovsritningarna visar byggnadens utformning, utseende och placering på tomten. Som underlag för situationsplanen används nybyggnadskarta/tomtkarta som beställs från kommunen. Ett annat namn för bygglovsritningar är arkitektritningar, även kallat A-ritningar. Bygglovsritningar ska vara fackmannamässigt utförda.</description>
+    </item>
+    
+    <item>
       <title>Konstruktionsritningar</title>
       <link>https://enjikaka.github.io/btc-hugo/sida/konstruktionsritningar/</link>
-      <pubDate>Mon, 04 Mar 2019 21:09:58 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://enjikaka.github.io/btc-hugo/sida/konstruktionsritningar/</guid>
       <description>Konstruktionsritningar och beräkningar Vad är konstruktionsritningar? Konstruktionsritningar visar i detalj hur huset är uppbyggt. De främsta skälen till att ta fram professionella genomarbetade konstruktionsritningar är följande:
@@ -24,21 +32,12 @@
     <item>
       <title>Kontrollansvarig</title>
       <link>https://enjikaka.github.io/btc-hugo/sida/kontrollansvarig/</link>
-      <pubDate>Mon, 04 Mar 2019 20:22:02 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://enjikaka.github.io/btc-hugo/sida/kontrollansvarig/</guid>
       <description>Kontrollansvarig Certifierad kontrollansvarig enligt PBL, behörighet N En kontrollansvarig krävs för de flesta byggprojekt. Vissa mindre tillbyggnader och komplementbyggnader är undantagna om inte byggnadsnämnden beslutar annat. Kontrollera med byggnadsnämnden i din kommun vad som gäller i just ditt fall.
 Den kontrollansvariges uppgifter är enligt PBL(Plan- och bygglag 2010:900) följande:
  Biträda byggherren med att upprätta ett förslag till kontrollplan och, i fråga om rivningsåtgärder, biträda vid inventeringen av farligt avfall och annat avfall.</description>
-    </item>
-    
-    <item>
-      <title>Bygglovsritningar</title>
-      <link>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</guid>
-      <description>Bygglovsritningar Vad är bygglovsritningar? När du ska söka bygglov behöver du bygglovsritningar. För de flesta byggnader krävs bygglov. Kontrollera med stadsbyggnadskontoret i din kommun vad som gäller för dig. Bygglovsritningar består i normala fallet av fasadritningar, planritningar, sektionsritning och situationsplan. Bygglovsritningarna visar byggnadens utformning, utseende och placering på tomten. Som underlag för situationsplanen används nybyggnadskarta/tomtkarta som beställs från kommunen. Ett annat namn för bygglovsritningar är arkitektritningar, även kallat A-ritningar. Bygglovsritningar ska vara fackmannamässigt utförda.</description>
     </item>
     
   </channel>
