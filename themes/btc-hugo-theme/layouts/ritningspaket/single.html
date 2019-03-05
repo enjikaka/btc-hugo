@@ -1,0 +1,26 @@
+{{ define "main" }}
+  {{ .Content }}
+
+  <table>
+    <tbody>
+      <tr class="info" itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <td>{{.Params.Description}}</td>
+        <td>"{{.Params.Title}}"</td>
+        <td><span itemprop="price">{{.Params.Price}}</span> kr inkl. moms</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p>
+    Ritningarna levereras i PDF-format (A3) på mejl mot förskottsbetalning. Betalning sker via bankgiro, insättning på konto
+    eller Swish.
+  </p>
+
+  <p>
+    Beställ via e-post.
+  </p>
+
+  <p>
+    Mot tilläggskostnad kan ritningspaketet anpassas efter egna önskemål.
+  </p>
+{{ end }}

@@ -1,10 +1,7 @@
 +++
-date = "2019-03-04T21:09:58+00:00"
-description = ""
-menu = ""
 title = "Konstruktionsritningar"
-undefined = []
-
+description = ""
+menu = "konsulttjänster"
 +++
 ## Konstruktionsritningar och beräkningar
 
@@ -33,19 +30,19 @@ Konstruktionsritningar kallas även K-ritningar, arbetsritningar och byggritning
 
 Följande exempel visar hur konstruktionsritningar från oss kan se ut:
 
-[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%201.jpg =338x195)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%201.pdf)   
+[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%201.jpg =338x195)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%201.pdf)
 _Klicka på bilden för att öppna ritningarna i PDF-format._
 
-[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%202.jpg =306x201)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%202.pdf)  
+[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%202.jpg =306x201)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%202.pdf)
 _Klicka på bilden för att öppna ritningarna i PDF-format._
 
-[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%203.jpg =262x203)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%203.pdf)  
+[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%203.jpg =262x203)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%203.pdf)
 _Klicka på bilden för att öppna ritningarna i PDF-format._
 
-[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%204.jpg =353x200)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%204.pdf)  
+[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%204.jpg =353x200)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%204.pdf)
 _Klicka på bilden för att öppna ritningarna i PDF-format._
 
-[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%205.jpg =262x186)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%205.pdf)  
+[![Exempel på konstruktionsritning](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/konstruktionsritningar%20ritningar%20hus%205.jpg =262x186)](https://byggteknikcentrum.se/Exempel%20ritningar/Konstruktionsritningar/Konstruktionsritningar%20ritningar%20hus%205.pdf)
 _Klicka på bilden för att öppna ritningarna i PDF-format._
 
 ### Vad har vi att erbjuda?

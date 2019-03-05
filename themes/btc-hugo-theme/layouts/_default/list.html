@@ -1,0 +1,22 @@
+{{ define "main" }}
+  <table>
+    <thead>
+      <tr>
+        <th>Typ</th>
+        <th>Namn</th>
+        <th>kvm</th>
+        <th>Pris (inkl. moms)</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range .Pages }}
+        <tr>
+          <td><a href="{{.Permalink}}">{{.Params.Description}}</a></td>
+          <td><a href="{{.Permalink}}">"{{.Params.Title}}"</a></td>
+          <td>{{.Params.Kvm}} m<sup>2</sup></td>
+          <td>{{.Params.Price}} kr</td>
+        </tr>
+      {{ end }}
+    </tbody>
+  </table>
+{{ end }}

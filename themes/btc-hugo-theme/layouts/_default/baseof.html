@@ -34,7 +34,9 @@
     <nav role="navigation">
       {{ partial "menu.html" . }}
     </nav>
-    {{ block "main" . }}{{ end }}
+    <article class="content">
+      {{ block "main" . }}{{ end }}
+    </article>
   </section>
   {{ partial "footer.html" . }}
 </body>
