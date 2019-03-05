@@ -26,7 +26,4 @@ fields:
   label: Keywords
   description: Keywords of this page
 pages:
-- content/pages/bygglovsritningar.md
 - content/_index.md
-- content/pages/konstruktionsritningar.md
-- content/pages/kontrollansvarig.md
