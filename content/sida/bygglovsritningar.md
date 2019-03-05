@@ -1,6 +1,8 @@
 +++
-menu = "main"
+Keywords = ["bygglovsritning", "offert", "villkor", "ABK09", "PDF", "DWG", "tillbyggnad", "ombyggnad", "skiss", "3D", "nybyggnation", "ombyggnation", "maskinhall", "industribyggnad", "offentliga lokaler"]
+description = "Bygglovsritningar består i normala fallet av fasadritningar, planritningar, sektionsritning och situationsplan. Bygglovsritningarna visar byggnadens utformning, utseende och placering på tomten."
 title = "Bygglovsritningar"
+[menu.main]
 
 +++
 # Bygglovsritningar

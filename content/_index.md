@@ -1,8 +1,9 @@
 +++
-title = "ByggTeknikCentrum — Bygglovsritningar & Konstruktionsritningar"
+Keywords = []
 description = "Allt inom byggnation, ritningar och konstruktion. Vi hjälper dig med konstruktionsritningar och konstruktionsberäkningar. Ritningar till fritidshus, garage och hus."
-+++
+title = "ByggTeknikCentrum — Bygglovsritningar & Konstruktionsritningar"
 
++++
 ## Ritningar för alla byggen
 
 På Byggteknikcentrum kombineras ingenjörskonst och snickarkunskap vilket har visat sig vara mycket uppskattat bland våra kunder. Denna kombination ger kostnadseffektiva lösningar och funktionella ritningar som är lätta att bygga efter. Konstruktionsritningar med klass är vår specialitet.
