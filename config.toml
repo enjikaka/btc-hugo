@@ -9,4 +9,5 @@ sectionPagesMenu = "main"
 enableGitInfo = true
 
 [permalinks]
-  pages = "/sida/:title"
+  sida = "/sida/:title"
+  ritningspaket = "/ritningspaket/:title"
