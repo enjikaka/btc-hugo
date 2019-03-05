@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content
   label: Hem
-  create: documents
+  create: none
   match: _index.md
 - type: directory
   path: content/sida
