@@ -4,12 +4,16 @@
   
   <url>
     <loc>https://enjikaka.github.io/btc-hugo/sida/konstruktionsritningar/</loc>
-    <lastmod>2019-03-04T21:11:05+00:00</lastmod>
+    <lastmod>2019-03-05T21:29:02+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://enjikaka.github.io/btc-hugo/sida/kontrollansvarig/</loc>
-    <lastmod>2019-03-04T22:06:34+01:00</lastmod>
+    <lastmod>2019-03-05T21:29:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://enjikaka.github.io/btc-hugo/ritningspaket/</loc>
   </url>
   
   <url>
@@ -19,7 +23,7 @@
   
   <url>
     <loc>https://enjikaka.github.io/btc-hugo/sida/bygglovsritningar/</loc>
-    <lastmod>2019-03-04T21:30:07+00:00</lastmod>
+    <lastmod>2019-03-05T21:29:02+01:00</lastmod>
   </url>
   
   <url>
@@ -28,8 +32,13 @@
   </url>
   
   <url>
-    <loc>https://enjikaka.github.io/btc-hugo/pages/</loc>
-    <lastmod>2019-03-04T21:11:05+00:00</lastmod>
+    <loc>https://enjikaka.github.io/btc-hugo/ritningspaket/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://enjikaka.github.io/btc-hugo/sida/</loc>
+    <lastmod>2019-03-05T21:29:02+01:00</lastmod>
     <priority>0</priority>
   </url>
   
