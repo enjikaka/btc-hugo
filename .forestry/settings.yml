@@ -5,13 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
+  path: content/ritningspaket
+  label: Ritningspaket
+  create: all
+  match: "**/*"
+- type: directory
   path: content
   label: Hem
   create: documents
   match: _index.md
 - type: directory
-  path: content/pages
-  label: Pages
+  path: content/sida
+  label: Sidor
   create: all
   match: "*"
 upload_dir: static/uploads
