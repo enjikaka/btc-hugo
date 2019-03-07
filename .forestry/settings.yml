@@ -7,12 +7,17 @@ sections:
 - type: directory
   path: content
   label: Hem
-  create: documents
+  create: none
   match: _index.md
 - type: directory
-  path: content/pages
-  label: Pages
-  create: all
+  path: content/sida
+  label: Sidor
+  create: documents
+  match: "*"
+- type: directory
+  path: content/ritningspaket
+  label: Ritningspaket
+  create: documents
   match: "*"
 upload_dir: static/uploads
 public_path: "/uploads"
