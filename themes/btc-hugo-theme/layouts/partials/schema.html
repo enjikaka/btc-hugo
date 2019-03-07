@@ -8,7 +8,7 @@
   "contactPoint": [
     {
       "@type": "ContactPoint",
-      "telephone": "+46736874210",
+      "telephone": "+46{{ strings.TrimLeft "0" .Site.Data.contact.office }}",
       "contactType": "sales",
       "areaServed": [
         "SE",
@@ -21,7 +21,7 @@
     },
     {
       "@type": "ContactPoint",
-      "telephone": "+46702300081",
+      "telephone": "+46{{ strings.TrimLeft "0" .Site.Data.contact.mobile }}",
       "contactType": "sales",
       "areaServed": [
         "SE",
@@ -48,6 +48,6 @@
     "postalCode": "671 93",
     "addressLocality": "Arvika"
   },
-  "telephone": "+46702300081"
+  "telephone": "+46{{ strings.TrimLeft "0" .Site.Data.contact.mobile }}"
 }
 </script>

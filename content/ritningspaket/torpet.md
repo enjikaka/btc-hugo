@@ -1,12 +1,13 @@
-+++
-title = "Torpet"
-description = "Attefallshus"
-date = 2019-03-05T21:36:25+01:00
-keywords = ["attefallshus"]
-kvm = "30"
-price = "1995"
-layout = "ritningspaket"
-+++
+---
+title: "Torpet"
+description: "Attefallshus"
+date: 2019-03-05T21:36:25+01:00
+keywords:
+  - attefallshus
+kvm: 30
+price: 1995
+layout: "ritningspaket"
+---
 
 ## Torpet
 

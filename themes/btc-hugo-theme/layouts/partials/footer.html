@@ -1,9 +1,17 @@
 <footer>
   <address>
     <div class="aside">
-      <div><strong>Kontor:</strong><span><a href="tel:+46736874210">{{$.Site.Data.contact.office}}</a></span></div>
-      <div><strong>Mobil:</strong><span><a href="tel:+46702300081">{{$.Site.Data.contact.mobile}}</a></span></div>
-      <div><strong>Mail:</strong><span><a href="mailto:info@byggteknikcentrum.se">info@byggteknikcentrum.se</a></span>
+      <div>
+        <strong>Kontor:</strong>
+        <span><a href="tel:+46{{ strings.TrimLeft "0" .Site.Data.contact.office }}">{{.Site.Data.contact.office}}</a></span>
+      </div>
+      <div>
+        <strong>Mobil:</strong>
+        <span><a href="tel:+46{{ strings.TrimLeft "0" .Site.Data.contact.mobile }}">{{.Site.Data.contact.mobile}}</a></span>
+      </div>
+      <div>
+        <strong>Mail:</strong><span>
+        <a href="mailto:{{.Site.Data.contact.mail}}">{{.Site.Data.contact.mail}}</a></span>
       </div>
     </div>
     <div class="company-info">

@@ -2,7 +2,11 @@
 <section class="text">
   <h1>{{.Site.Title}}</h1>
   <div class="sub-content">
-    <aside>Kontor: <a href="tel:+46736874210">073 - 687 42 10</a><br />Mobil: <a href="tel:+46702300081">070 - 23 000 81</a></aside>
+    <aside>
+      Kontor: <a href="tel:+46{{ strings.TrimLeft "0" .Site.Data.contact.office }}">{{.Site.Data.contact.office}}</a>
+      <br />
+      Mobil: <a href="tel:+46{{ strings.TrimLeft "0" .Site.Data.contact.mobile }}">{{.Site.Data.contact.mobile}}</a>
+    </aside>
     Valnäs Edsgård<br />671 93 Arvika
   </div>
 </section>
