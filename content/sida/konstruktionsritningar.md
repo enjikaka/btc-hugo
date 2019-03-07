@@ -1,8 +1,8 @@
-+++
-title = "Konstruktionsritningar"
-description = ""
-menu = "konsulttjänster"
-+++
+---
+title: "Konstruktionsritningar"
+menu: "konsulttjänster"
+---
+
 ## Konstruktionsritningar och beräkningar
 
 ### Vad är konstruktionsritningar?

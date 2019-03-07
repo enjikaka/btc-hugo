@@ -1,7 +1,7 @@
-+++
-title = "{{ replace .Name "-" " " | title }}"
-description = ""
-date = {{ .Date }}
-keywords = []
-menu = "other"
-+++
+---
+title: "{{ replace .Name "-" " " | title }}"
+description: ""
+date: {{ .Date }}
+keywords:
+menu: "other"
+---

@@ -1,8 +1,9 @@
-+++
-title = "Kontrollansvarig"
-description = ""
-menu = "konsulttjänster"
-+++
+---
+title: "Kontrollansvarig"
+description: ""
+menu: "konsulttjänster"
+---
+
 ## Kontrollansvarig
 
 ### Certifierad kontrollansvarig enligt PBL, behörighet N
@@ -39,4 +40,4 @@ Välkommen med din förfrågan. Ett kostnadsförslag är alltid gratis!
 
 ### PBL(Plan- och bygglag 2010:900)
 
-Vill du veta mer kan du läsa [kapitel 10 ur Plan- och bygglag 2010:900](http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Plan--och-bygglag-2010900_sfs-2010-900/#K10)på Riksdagens hemsida.
+Vill du veta mer kan du läsa [kapitel 10 ur Plan- och bygglag 2010:900](http://www.riksdagen.se/sv/Dokument-Lagar/Lagar/Svenskforfattningssamling/Plan--och-bygglag-2010900_sfs-2010-900/#K10) på Riksdagens hemsida.
